@@ -11,7 +11,13 @@ I'm going to put all my Kaggle jupyter notebook works here to have a Github page
 
 * Costa Rican Household Piverty is a competition on Kaggle. The goal is to predict the level of proverty to decide offering welfare or not
 
-## How to use word cloud
+## How to download BeautifulSoup
+
+```
+pip install bs4 
+```
+
+## How to download word cloud
 
 ### You might encounter the same issues as I when running the code to import word cloud
 
