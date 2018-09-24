@@ -9,7 +9,7 @@ My works in Jupyter Notebook format
 
 * GoogleJobSkill.ipynb is the sentimental analysis of the text of over 1000 positions. Using word-cloud to briefly sum up the requirements, basic requirements, and prefered requirements. Demonstrated text mining of how popular each programming language is in Google, degree requirements, and experience
 
-
+* 2018FifaRadarAnalysis Radar charts of each team
 
 ## Instruction
 
