@@ -7,9 +7,9 @@ My works in Jupyter Notebook format
 
 * Data Wrangling - Collect data through twitter API, flat file, and request online, making data retrieval whenever. And do the three elements of data wrangling - collecting, assessing, and cleaning. Demonstrated my data wrangling skills.
 
-* GoogleJobSkill.ipynb is the sentimental analysis of the text of over 1000 positions. Using word-cloud to briefly sum up the requirements, basic requirements, and prefered requirements. Demonstrated text mining of how popular each programming language is in Google, degree requirements, and experience
+* GoogleJobSkill.ipynb - the sentimental analysis of the text of over 1000 positions. Using word-cloud to briefly sum up the requirements, basic requirements, and prefered requirements. Demonstrated text mining of how popular each programming language is in Google, degree requirements, and experience
 
-* 2018FifaRadarAnalysis Radar charts of each team
+* 2018FifaRadarAnalysis - Radar charts of each team
 
 ## Instruction
 
